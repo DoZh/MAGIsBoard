@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: MAGI'sDIPBoard.PcbDoc   2013/11/30  17:48:27
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : MAGI'sDIPBoard.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        30mil (0.762mm)          Round          10               0.90 Inch (22.86 mm)
+T2        35.4mil (0.89916mm)      Round          28               5.30 Inch (134.54 mm)
+T3        43.3mil (1.09982mm)      Round          78               12.41 Inch (315.10 mm)
+---------------------------------------------------------------------------
+Totals                                            116              18.60 Inch (472.50 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
