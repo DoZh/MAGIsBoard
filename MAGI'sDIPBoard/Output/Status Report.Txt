@@ -1,0 +1,17 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [MAGI'sDIPBoard.PrjPcb]
+   Generated File[MAGI'sDIPBoard.GTL]
+   Generated File[MAGI'sDIPBoard.GBL]
+   Generated File[MAGI'sDIPBoard.GM1]
+   Generated File[MAGI'sDIPBoard.GD1]
+   Generated File[MAGI'sDIPBoard.GG1]
+   Generated File[MAGI'sDIPBoard.RUL]
+   Generated File[MAGI'sDIPBoard.EXTREP]
+   Generated File[MAGI'sDIPBoard.REP]
+
+
+Files Generated   : 8
+Documents Printed : 0
+
+Finished Output Generation At 17:54:10 On 2013/11/30
