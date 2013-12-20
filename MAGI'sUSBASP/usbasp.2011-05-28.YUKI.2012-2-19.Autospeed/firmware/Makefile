@@ -10,7 +10,7 @@
 #TARGET=atmega8
 #HFUSE=0xc9
 #LFUSE=0xef
-TARGET=atmega48
+TARGET=atmega8
 HFUSE=0xdd
 LFUSE=0xff
 
