@@ -1,0 +1,1 @@
+echo T$(date +"%s") > /dev/tty.usbserial-A603HGUE
