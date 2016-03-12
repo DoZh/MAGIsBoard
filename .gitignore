@@ -10,16 +10,7 @@
 bfg.jar
 
 
-*.SchDocPreview
-*.PrjPcbStructure
-*.PcbDocPreview
-=======
+*/*.SchDocPreview
+*/*.PrjPcbStructure
+*/*.PcbDocPreview
 
-
-*DuinoCore*/*.PcbDoc*
-
-
-MAGI'sCM4Core/MAGIsCM4Core.SchDoc
-MAGI'sCM4Core/MAGIsCM4Core.PcbDoc
-bfg.jar
->>>>>>> 11e3c723f5086ccb8606b09766a89b50efae1da2
