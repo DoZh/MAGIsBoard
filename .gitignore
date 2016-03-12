@@ -3,14 +3,14 @@
 *CM4Core*/*.PcbDoc*
 *CM4Core*/*.SchDoc*
 
-<<<<<<< HEAD
 *DuinoCore*/*.PcbDoc*
 
-
 bfg.jar
-
 
 */*.SchDocPreview
 */*.PrjPcbStructure
 */*.PcbDocPreview
 
+*DS_Store*
+*._*
+Thumbs.db
